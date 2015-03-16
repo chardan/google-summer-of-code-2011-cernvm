@@ -1,0 +1,1 @@
+A project for Google Summer of Code students working on CERN Virtual Machine (CernVM).
